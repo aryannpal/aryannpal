@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryannpal
 - 👀 I’m interested in data science/machine learning
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning Ml
 - 💞️ I’m looking to collaborate on ml 
 - 📫 How to reach me dm me @aryannpal1
 - 😄 Pronouns: he/him
